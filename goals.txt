@@ -1,0 +1,10 @@
+My Goals:
+
+1 : figure out how to use a webcam from the command line on ubuntu 20.4.
+then determine if a webcam is installed on this host computer.
+2 : if a webcam is installed use the command line to take a picture and save
+it. do not delete the image. do not use a graphical user interface.
+3 : figure out how to upload the image file to imgur.com from command line.
+Try a bash script. this is the imgur default client id.
+4 : upload image to imgur.com and append the goals.txt file with the url.
+
